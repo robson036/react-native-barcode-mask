@@ -6,6 +6,14 @@
 
 > :camera: A barcode and QR code scan layout for react-native applications with customizable styling
 
+<p align="center">
+    This repository was forked and modificated by robson036, for use in a project wich need the mask repositioned.
+</p>
+
+<p align="center">
+    The original project is here: https://github.com/shahnawaz/react-native-barcode-mask
+</p>
+
 <p align="center" >
     <img 
         height="300" 
@@ -19,7 +27,7 @@
 
 ## Usage
 
-All you need is to `import` `BarcodeMask` from the `react-native-barcode-mask` module and then use it. 
+All you need is to `import` `BarcodeMask` from the `react-native-barcode-mask` module and then use it.
 
 #### Example use with RNCamera
 
@@ -76,8 +84,8 @@ Few style modifications:
 // Barcode example 3
 <BarcodeMask width={300} height={100} edgeBorderWidth={1} />
 ```
-  
-:star: Pretty cool! Right?  
+
+:star: Pretty cool! Right?
 
 ## Properties
 
@@ -153,7 +161,7 @@ Default: `1500`
 ## Contribution
 
 Want to add some new styles or layout?  
-Want to update few things?  
+Want to update few things?
 
 Feel free to open a PR.
 
